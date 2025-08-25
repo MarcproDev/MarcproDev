@@ -32,7 +32,7 @@
 
 🔥 Learning everything about Frontend and Backend technologies
 🤖 I have a title of "advanced in Kotlin" 40hs
-📊 Main languages: Kotlin/Android
+📊 Main languages: Kotlin/Android = Json, RecyclerView, Array.
 🔥 Interested in Full Stack Machine Learning Application development
 
 
