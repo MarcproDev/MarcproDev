@@ -14,11 +14,11 @@
 
  *_*  [fun fickt about me]  °_°
 
- # I am a self Developer and a Machine Learning Developer
- # Exploring new technologies and developing programming insights
- # I have a strong interest in Data Science and Artificial Intelligence
- # i was living in germany for 3 years
- # i speak three languages besides spanish(German, Inglish)
+ # I am a self Developer and a Machine Learning Developer.
+ # Exploring new technologies and developing programming insights.
+ # I have a strong interest in Data Science and Artificial Intelligence.
+ # i was living in germany for 3 years.
+ # i speak three languages besides spanish(German, Inglish).
 
 
 ```
@@ -30,10 +30,10 @@
 
 🛠  Tech Stack
 
-🔥 Learning everything about Frontend and Backend technologies
-🤖 I have a title of "advanced in Kotlin" 40hs
-📊 Main languages: Kotlin/Android = Json, RecyclerView, Array.
-🔥 Interested in Full Stack Machine Learning Application development
+🔥 Learning everything about Frontend and Backend technologies.
+🤖 I have a title of "advanced in Kotlin" 40hs.
+📊 Main languages: Kotlin/Android = Json, RecyclerView, Array, Lambda, Binding, RetroFit, coroutins.
+🔥 Interested in Full Stack Machine Learning Application development.
 
 
 ```
