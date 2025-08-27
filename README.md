@@ -32,7 +32,7 @@
 
 🔥 Learning everything about Frontend and Backend technologies.
 🤖 I have a title of "advanced in Kotlin" 40hs.
-📊 Main languages: Kotlin/Android = Json, RecyclerView, Array, Lambda, Binding, RetroFit, coroutins.
+📊 Main languages: Kotlin/Android = Json, RecyclerView, Array, Lambda, Binding, RetroFit, coroutins, librerias.
 🔥 Interested in Full Stack Machine Learning Application development.
 
 
