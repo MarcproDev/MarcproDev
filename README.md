@@ -33,7 +33,7 @@
 🔥 Learning everything about Frontend and Backend technologies.
 🤖 I have a title of "advanced in Kotlin" 40hs.
 📊 Main languages: Kotlin/Android = Json/Gson, RecyclerView, Array, Lambda, Binding, RetroFit, coroutins, librerias, Flow,
-MVVM-architecture, clean architecture,Fragment, Navigation component, DaggerHilt.
+MVVM-architecture, clean architecture,Fragment, Navigation component, DaggerHilt, Interceptor.
 🔥 Interested in Full Stack Machine Learning Application development.
 
 
